@@ -15,6 +15,7 @@ div {
   background: tomato;
   padding: 20px;
   color: #fff;
+  text-align: center;
 }
 div h3 {
   text-align: center;
@@ -24,4 +25,9 @@ div h3 {
 div p {
   font-size: 22px;
   text-align: justify;
+}
+div img {
+  border: 2px solid rgb(255, 255, 255);
+  margin-top: 10px;
+  margin-right: 10px;
 }
